@@ -32,7 +32,7 @@ Su objetivo es preservar el conocimiento generado por el equipo y proporcionar u
 Todo cambio importante deberá generar una nueva versión.
 
 ## Regla #2 — Trazabilidad
-Toda modificación deberá registrarse en CHANGELOG.md.
+Toda modificación deberá registrarse en ilogs.md.
 
 ## Regla #3 — Conservación
 Ningún documento histórico se elimina.
